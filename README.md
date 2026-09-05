@@ -48,14 +48,14 @@ percorso audio, per chi gioca mentre ascolta.
 
 ## 🛠️ Tech Stack
 
-**Languages** · Java · C# · JavaScript · Python · PowerShell · SQL
+**Languages** · Java · C# · JavaScript · PowerShell · SQL
 **Minecraft** · PaperMC · Velocity · Bukkit API · nLogin · Sonar
 **Infra** · Pterodactyl / Wings · Linux VPS · Docker · Nginx
 **Desktop & Audio** · .NET Framework · WinForms · WebView2 · WASAPI · NAudio · Canvas
 **Build & Tools** · Gradle · Maven · Git
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,python,powershell,linux,docker,nginx,git,gradle,mysql&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,powershell,linux,docker,nginx,git,gradle,mysql&theme=dark" alt="Tech stack" />
 </p>
 
 ---
