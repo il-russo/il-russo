@@ -60,10 +60,13 @@ renderizzata da **WebView2**, con scaling per monitor gestito a mano.
 
 ## 📊 Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=il-russo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=il-russo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+[![Follower](https://img.shields.io/github/followers/il-russo?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=0d1117)](https://github.com/il-russo?tab=followers)
+[![Stelle](https://img.shields.io/github/stars/il-russo?style=for-the-badge&logo=github&logoColor=white&color=ff6b00&labelColor=0d1117)](https://github.com/il-russo?tab=repositories)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=il-russo&theme=tokyonight" width="98%" alt="Riepilogo del profilo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=il-russo&theme=tokyonight" width="48%" align="top" alt="Linguaggi per repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=il-russo&theme=tokyonight" width="48%" align="top" alt="Linguaggi per commit" />
 
 ---
 
@@ -73,11 +76,9 @@ renderizzata da **WebView2**, con scaling per monitor gestito a mano.
 |---|---|
 | [Mic Flow](https://github.com/il-russo/MicMonitor) | Ascolto del microfono in tempo reale su Windows: FFT, VU stereo, noise gate, limiter. Un solo exe, nessun driver audio virtuale, interfaccia WebView2. |
 
-<p align="left">
-  <a href="https://github.com/il-russo/MicMonitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=il-russo&repo=MicMonitor&theme=tokyonight&hide_border=true" alt="Mic Flow" />
-  </a>
-</p>
+[![Ultima release](https://img.shields.io/github/v/release/il-russo/MicMonitor?style=flat-square&label=Mic%20Flow&color=ff6b00&labelColor=0d1117)](https://github.com/il-russo/MicMonitor/releases/latest)
+[![Download](https://img.shields.io/github/downloads/il-russo/MicMonitor/total?style=flat-square&label=download&color=fbbf24&labelColor=0d1117)](https://github.com/il-russo/MicMonitor/releases)
+[![Licenza](https://img.shields.io/github/license/il-russo/MicMonitor?style=flat-square&color=22c55e&labelColor=0d1117)](https://github.com/il-russo/MicMonitor/blob/main/LICENSE)
 
 ---
 
