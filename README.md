@@ -40,7 +40,9 @@ Applicazioni **C# / .NET** distribuite come eseguibile singolo — per esempio
 [Mic Flow](https://github.com/il-russo/MicMonitor): monitoraggio del microfono in
 tempo reale via **WASAPI shared**, senza driver virtuali, con FFT a 1024 punti,
 VU stereo true-peak, noise gate e limiter. Interfaccia HTML incorporata e
-renderizzata da **WebView2**, con scaling per monitor gestito a mano.
+renderizzata da **WebView2**, con scaling per monitor gestito a mano e una
+**modalità prestazioni** che sospende metering e analisi lasciando intatto il
+percorso audio, per chi gioca mentre ascolta.
 
 ---
 
@@ -74,7 +76,7 @@ renderizzata da **WebView2**, con scaling per monitor gestito a mano.
 
 | Progetto | Cosa fa |
 |---|---|
-| [Mic Flow](https://github.com/il-russo/MicMonitor) | Ascolto del microfono in tempo reale su Windows: FFT, VU stereo, noise gate, limiter. Un solo exe, nessun driver audio virtuale, interfaccia WebView2. |
+| [Mic Flow](https://github.com/il-russo/MicMonitor) | Ascolto del microfono in tempo reale su Windows: FFT, VU stereo, noise gate, limiter, modalità prestazioni. Un solo exe, nessun driver audio virtuale, interfaccia WebView2. |
 
 [![Ultima release](https://img.shields.io/github/v/release/il-russo/MicMonitor?style=flat-square&label=Mic%20Flow&color=ff6b00&labelColor=0d1117)](https://github.com/il-russo/MicMonitor/releases/latest)
 [![Download](https://img.shields.io/github/downloads/il-russo/MicMonitor/total?style=flat-square&label=download&color=fbbf24&labelColor=0d1117)](https://github.com/il-russo/MicMonitor/releases)
