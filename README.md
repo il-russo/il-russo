@@ -21,7 +21,7 @@ Costruisco plugin, tool e infrastrutture per network Minecraft — dal proxy all
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do | Cosa Faccio
 
 **Minecraft Plugin Development**
 Plugin per **PaperMC** e proxy **Velocity**: gestione dei giocatori, integrazioni con
@@ -46,7 +46,7 @@ percorso audio, per chi gioca mentre ascolta.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack | Stato Informatico
 
 **Languages** · Java · C# · JavaScript · PowerShell · SQL
 **Minecraft** · PaperMC · Velocity · Bukkit API · nLogin · Sonar
@@ -60,7 +60,7 @@ percorso audio, per chi gioca mentre ascolta.
 
 ---
 
-## 📊 Stats
+## 📊 Stats | Statistiche
 
 [![Follower](https://img.shields.io/github/followers/il-russo?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=0d1117)](https://github.com/il-russo?tab=followers)
 [![Stelle](https://img.shields.io/github/stars/il-russo?style=for-the-badge&logo=github&logoColor=white&color=ff6b00&labelColor=0d1117)](https://github.com/il-russo?tab=repositories)
